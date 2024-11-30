@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Computer Repair Shop</title>
+        <link>https://ikec01.github.io/ilijanikolic/</link>
+        <description>Fast and Reliable Solutions for All Your Computer Repair Needs</description>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 30 Nov 2024 12:00:00 GMT</lastBuildDate>
+        <pubDate>Fri, 30 Nov 2024 12:00:00 GMT</pubDate>
+
+        <item>
+            <title>Welcome to Our Computer Repair Shop</title>
+            <link>https://ikec01.github.io/ilijanikolic/</link>
+            <description>We provide fast, reliable, and affordable computer repair services.</description>
+            <pubDate>Fri, 30 Nov 2024 12:00:00 GMT</pubDate>
+            <guid>https://ikec01.github.io/ilijanikolic/</guid>
+        </item>
+
+        <item>
+            <title>About Us</title>
+            <link>https://ikec01.github.io/ilijanikolic/about.html</link>
+            <description>Learn more about our mission and values at Computer Repair Shop.</description>
+            <pubDate>Fri, 30 Nov 2024 12:00:00 GMT</pubDate>
+            <guid>https://ikec01.github.io/ilijanikolic/about.html</guid>
+        </item>
+
+        <item>
+            <title>Our Services</title>
+            <link>https://ikec01.github.io/ilijanikolic/services.html</link>
+            <description>Explore the range of services we offer, including hardware repair, software installation, and virus removal.</description>
+            <pubDate>Fri, 30 Nov 2024 12:00:00 GMT</pubDate>
+            <guid>https://ikec01.github.io/ilijanikolic/services.html</guid>
+        </item>
+
+        <item>
+            <title>Gallery</title>
+            <link>https://ikec01.github.io/ilijanikolic/galerija.html</link>
+            <description>Check out our gallery of computer repair projects and components.</description>
+            <pubDate>Fri, 30 Nov 2024 12:00:00 GMT</pubDate>
+            <guid>https://ikec01.github.io/ilijanikolic/galerija.html</guid>
+        </item>
+
+        <item>
+            <title>Contact Us</title>
+            <link>https://ikec01.github.io/ilijanikolic/contact.html</link>
+            <description>Contact us for more information or to schedule a repair service.</description>
+            <pubDate>Fri, 30 Nov 2024 12:00:00 GMT</pubDate>
+            <guid>https://ikec01.github.io/ilijanikolic/contact.html</guid>
+        </item>
+
+    </channel>
+</rss>
